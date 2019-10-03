@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  backgroundForSwitch
-//
-//  Created by Sasha Myshkina on 10/3/19.
-//  Copyright © 2019 Sasha Myshkina. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
